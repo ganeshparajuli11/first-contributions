@@ -1740,4 +1740,6 @@ Merjen Amanmuradova
 - [bingzangda](https://github.com/Anyoneself)
 - [Kasis Goenka](https://github.com/KasisGoenka15)
 - [Ganesh Parajuli](https://github.com/ganeshparajuli11)
+- [Ganesh Parajuli](https://github.com/ganeshparajuli11)
+
 
